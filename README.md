@@ -5,3 +5,7 @@ The second file contains a python program that takes the user's first nam and la
 The third file contain a Python program that takes an integer input from the user and check if it even or odd
 
 The fourth file contains a python program that displays the sum of the integers from 1 to 50 
+
+The fifth file containn a python program that calculates thye factorial of a number by taking an input from the user
+
+The sixth file contains apython program  that calculates 1. square root, 2. Natural logarithm, 3. Sine  of a number by taking an input from the user
