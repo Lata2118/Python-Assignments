@@ -18,3 +18,7 @@ The ninth file "FileH2" contains the Python program of Assignment 4 (Task 2)
 
 The tenth file "output.txt" is a text file created by "FileH2" Python program
 
+The eleventh file Asg5-Task1" contains a python program to demonstrate the usage of dictionary.
+
+The twelfth file " Asg5- Task2" contains a  python program that demonstrates list slicing.
+
